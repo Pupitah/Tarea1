@@ -1,12 +1,12 @@
 ## Cómo Compilar y Ejecutar
 Dado que el sistema está diseñado para ser accesible y fácil de probar, recomendamos utilizar Repl.it para una configuración y ejecución rápidas. Sigue estos pasos para empezar:
 
-Visita Repl.it.
-Crea una cuenta nueva o inicia sesión si ya tienes una.
-Una vez en tu panel de control, selecciona "Nuevo Repl" y elige "Importar desde GitHub".
-Pega la URL del repositorio: https://github.com/username/sistema-gestion-pacientes.git.
-Repl.it clonará el repositorio y preparará un entorno de ejecución.
-Presiona el botón "Run" para compilar y ejecutar la aplicación.
+- Visita Repl.it.
+- Crea una cuenta nueva o inicia sesión si ya tienes una.
+- Una vez en tu panel de control, selecciona "Nuevo Repl" y elige "Importar desde GitHub".
+- Pega la URL del repositorio: https://github.com/username/sistema-gestion-pacientes.git.
+- Repl.it clonará el repositorio y preparará un entorno de ejecución.
+- Presiona el botón "Run" para compilar y ejecutar la aplicación.
 
 ## Funcionalidades
 

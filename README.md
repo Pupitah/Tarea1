@@ -1,20 +1,3 @@
-# Sistema de Gestión de Pacientes en Hospital
-
-## Descripción
-
-Este sistema es una herramienta para gestionar la atención de pacientes en un hospital. Con él, los usuarios pueden registrar nuevos pacientes, asignar prioridades, ver la lista de espera y más. Su objetivo principal es mejorar la eficiencia en la atención médica, asegurando que los pacientes en situaciones críticas sean atendidos lo más rápido posible.
-
-## Cómo compilar y ejecutar
-
-Dado que el sistema está diseñado para ser accesible y fácil de probar, recomendamos usar [Repl.it](http://repl.it/) para una rápida configuración y ejecución. Sigue estos pasos para comenzar:
-
-1. Visita [Repl.it](https://repl.it/).
-2. Crea una nueva cuenta o inicia sesión si ya tienes una.
-3. Una vez en tu dashboard, selecciona "New Repl" y elige "Import from GitHub".
-4. Pega la URL del repositorio: `https://github.com/username/sistema-gestion-pacientes.git`.
-5. [Repl.it](http://repl.it/) clonará el repositorio y preparará un entorno de ejecución.
-6. Presiona el botón "Run" para compilar y ejecutar la aplicación.
-
 ## Funcionalidades
 
 - Registro de pacientes con sus datos básicos y una prioridad inicial.

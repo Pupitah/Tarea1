@@ -4,9 +4,10 @@ Dado que el sistema está diseñado para ser accesible y fácil de probar, recom
 - Visita Repl.it.
 - Crea una cuenta nueva o inicia sesión si ya tienes una.
 - Una vez en tu panel de control, selecciona "Nuevo Repl" y elige "Importar desde GitHub".
-- Pega la URL del repositorio: https://github.com/username/sistema-gestion-pacientes.git.
+- Pega la URL del repositorio: https://github.com/Pupitah/Tarea1/edit/main/README.md
 - Repl.it clonará el repositorio y preparará un entorno de ejecución.
 - Presiona el botón "Run" para compilar y ejecutar la aplicación.
+- METODO ALTERNATIVO: Ingresar directamente al LINK: https://replit.com/@lucas123kario/Tarea-1
 
 ## Funcionalidades
 
